@@ -6,8 +6,13 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		9B9C87D32F3B94AA00D4E324 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B9C87D22F3B94AA00D4E324 /* SecondViewController.swift */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		9B9C87BA2F3B8E8600D4E324 /* M3_ICantseeName.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = M3_ICantseeName.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		9B9C87D22F3B94AA00D4E324 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -45,6 +50,7 @@
 		9B9C87B12F3B8E8600D4E324 = {
 			isa = PBXGroup;
 			children = (
+				9B9C87D22F3B94AA00D4E324 /* SecondViewController.swift */,
 				9B9C87BC2F3B8E8600D4E324 /* M3_ICantseeName */,
 				9B9C87BB2F3B8E8600D4E324 /* Products */,
 			);
@@ -132,6 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9B9C87D32F3B94AA00D4E324 /* SecondViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
